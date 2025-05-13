@@ -1,0 +1,21 @@
+#new-todo {
+    justify-content: center;
+  }
+  
+  #new-todo.was-validated .valid-feedback, 
+  #new-todo.was-validated .invalid-feedback {
+    display: block;
+  }
+  
+  #new-todo section {
+    width: fit-content;
+    text-align: left;
+  }
+  
+  .input-group-btn .btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  
+
+  
